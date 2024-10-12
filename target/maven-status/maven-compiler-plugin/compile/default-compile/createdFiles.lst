@@ -1,0 +1,4 @@
+com\syed\springbootmysqldocker\entity\Product.class
+com\syed\springbootmysqldocker\repositories\ProductRepository.class
+com\syed\springbootmysqldocker\controller\ProductController.class
+com\syed\springbootmysqldocker\Application.class
